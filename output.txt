@@ -1,0 +1,6 @@
+2A - Total number of words in the text:119150
+2B - Top 5 Words: whale=1146, not=1141, one=907, now=778, then=629
+2C - Unique Words:[abandonedly, abasement, abate, abatement, abbreviate, abbreviation, abeam, abednego, abel, abhorrence, abhorrent, abhorring, abided, ability, abjectly, abjectus, abode, abominate, abominated, abomination, aboriginally, aboriginalness, abortion, abortions, abounded, aboundingly, absorbingly, abstained, abstemious, abstinence, abstract, abstracted, abstraction, absurdly, academy, accelerated, accept, accessible, accidental, accommodated, accommodation, accompanies, accomplishing, accomplishment, accountable, accountants, accounting, accumulate, accumulating, accurate]
+Total Processing Time: 0.239 seconds
+
+time completed to complete this task : 75 mins.
